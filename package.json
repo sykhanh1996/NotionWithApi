@@ -1,0 +1,9 @@
+{
+  "name": "NotionWithApi",
+  "version": "1.0.0",
+  "description": "test api notion",
+  "main": "src/server.ts",
+  "repository": "https://github.com/sykhanh1996/NotionWithApi.git",
+  "author": "Khanh Sy <sykhanh1996@gmail.com>",
+  "license": "MIT"
+}
