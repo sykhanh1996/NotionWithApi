@@ -38,6 +38,7 @@ async function retrieveItem() {
       database_id: databaseId2,
     });
     console.log(response);
+    console.log("test test");
   } catch (error: any) {
     console.error(error.body);
   }
